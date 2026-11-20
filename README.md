@@ -6,6 +6,12 @@ Este mod reemplaza los disparos de la metralleta estándar (**R2**) por los cono
 
 ---
 
+## Demostración en YouTube
+
+[![Ver demostración del mod en YouTube](https://img.youtube.com/vi/idx5JnMQbI4/hqdefault.jpg)](https://youtu.be/idx5JnMQbI4?si=klEMk667Yd6HLpYy)
+
+*(Haz clic en la imagen para ver la demostración del mod en YouTube).*
+
 ## Características Principales
 
 - **Doble Modo de Disparo (`L3` + `R2`):**
