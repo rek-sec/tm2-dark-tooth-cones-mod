@@ -1,6 +1,7 @@
-/Mod_by_rek/*
+*.xdelta
 *.bin
 *.cue
 *.chd
+/Mod_by_rek/*
 /input/*
 /output/*
