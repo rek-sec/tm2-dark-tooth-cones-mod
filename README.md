@@ -75,6 +75,12 @@ Para compilar tu propia imagen `.bin/.cue` y `.chd` sin depender de rutas absolu
 
 ---
 
+## Uso, Modificación y Créditos
+
+- **Base original:** Este mod está construido sobre la base *Singletrac V3.6* de **[@inSAMity](https://www.youtube.com/@inSAMity)** y la imagen base de *Twisted Metal 2: World Tour (NTSC-U / `SCUS-943.06`)*.
+- **Libertad para modificar:** Eres libre de estudiar, ajustar, experimentar o modificar el código, scripts y configuraciones para crear tus propias variantes o pruebas.
+- **Condición obligatoria:** Se debe respetar y conservar la autoría y mención a **Rek** (`rek`) en las partes o rutinas desarrolladas por mí, sin borrar ni atribuirse mi trabajo como propio.
+
 ## Contacto y Comunidad
 
 - **Email:** reksecsys@gmail.com
